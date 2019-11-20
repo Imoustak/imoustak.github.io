@@ -1,9 +1,9 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Formula Student Project"
+date: 2019-11-20
+tags: [racecar engineering, electronics, telemetry]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/art3.png"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
